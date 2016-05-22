@@ -1,0 +1,16 @@
+{
+  "name": "simplest portfolio",
+  "version": "1.0.0",
+  "description": "Minimal portfolio website",
+  "main": "index.js",
+  "dependencies": {
+    "jade": "^1.11.0",
+    "stylus": "^0.54.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guilherme Guerra <guerrinha@comum.org>",
+  "license": "MIT"
+}
