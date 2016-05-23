@@ -4,6 +4,7 @@
   "description": "Minimal portfolio website",
   "main": "index.js",
   "dependencies": {
+    "autoprefixer-stylus": "^0.9.3",
     "jade": "^1.11.0",
     "stylus": "^0.54.5"
   },
